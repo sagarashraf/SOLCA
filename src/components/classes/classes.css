@@ -1,0 +1,84 @@
+.classHome {
+  height: auto;
+}
+.classHome #heading {
+  text-align: left;
+  padding: 0;
+}
+.classHome .left img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.classHome .right {
+  padding: 80px 50px;
+}
+.classHome .items {
+  margin-top: 5px;
+}
+.classHome .item {
+  margin-top: 20px;
+  padding: 20px;
+  transition: 0.5s;
+  border: 2px solid rgb(75, 75, 75);
+  box-shadow: rgba(234, 99, 50, 0.2) 0px 8px 24px !important;
+  background-color: rgb(188, 227, 185);
+}
+.classHome .img {
+  width: 100%;
+}
+.classHome img {
+  width: 100%;
+  height: auto;
+  border-radius: 50%;
+}
+.classHome .item h2 {
+  font-size: 20px;
+  margin-bottom: 15px;
+}
+.classHome .item p {
+  color: #999999;
+}
+.classHome .item:hover {
+  background-color: #08842c;
+  color: #fff;
+  cursor: pointer;
+  box-shadow: 0 5px 25px -2px rgb(0 0 0 / 6%);
+}
+.classHome .item:hover p {
+  color: #fff;
+}
+/*----------awrapper------------*/
+.awrapper-classes {
+  background-image: url("../../../public/images/awrapper.webp");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 30vh;
+  color: yellow;
+}
+.awrapper-classes .box {
+  padding: 70px 0;
+}
+.awrapper-classes img {
+  margin-right: 30px;
+}
+.awrapper-classes h1 {
+  font-size: 50px;
+}
+.awrapper-classes h3 {
+  font-size: 20px;
+  font-weight: 500;
+}
+/*----------awrapper------------*/
+@media screen and (max-width: 768px) {
+  .classHome .container {
+    flex-direction: column-reverse;
+  }
+  .classHome .row {
+    width: 100%;
+  }
+  .awrapper {
+    height: 50vh;
+  }
+}

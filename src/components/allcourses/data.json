@@ -1,0 +1,220 @@
+{
+  "Headteacher": {
+    "name": "Mrs Irene Tabeth",
+    "qualifications": [
+      "BSc",
+      "BA",
+      "PGCE",
+      "QTS",
+      "NASENCo",
+      "Rhema Bible College Diploma in Christian Ministry"
+    ],
+    "email": "headteacher@solacademy.org.uk"
+  },
+  "Supervisors/TA": [
+    {
+      "name": "Rev. E Tabeth",
+      "email": "etabeth@solacademy.org.uk"
+    },
+    {
+      "name": "Mr Gerald Kalanzi",
+      "email": "geraldkalanzi@solacademy.org.uk"
+    },
+    {
+      "name": "Mrs Katiana Morais",
+      "email": "katianamorais@solacademy.org.uk"
+    },
+    {
+      "name": "Hong Xu",
+      "email": "hongxu@solacademy.org.uk"
+    }
+  ],
+  "Science Teacher": {
+    "name": "Mrs Joy Dass",
+    "qualifications": ["BSc", "PGCE"],
+    "email": "joydass@solacademy.org.uk"
+  },
+  "English Teacher": {
+    "name": "Ms Jadie Fan",
+    "qualifications": ["PGCE Level 7", "BSc", "CELTA Level 5 qualification"],
+    "email": "jadiefan@solacademy.org.uk"
+  },
+  "Math Teachers and Math Support": [
+    {
+      "name": "Rev. E Tabeth",
+      "email": "etabeth@solacademy.org.uk"
+    },
+    {
+      "name": "Ms Hong Xu",
+      "email": "hongxu@solacademy.org.uk"
+    },
+    {
+      "name": "Marieta Markou",
+      "email": "marietamarkou@solacademy.org.uk"
+    },
+    {
+      "name": "Mr Kingsley Osemwegie",
+      "email": "mathsupport@solacademy.org.uk"
+    }
+  ],
+  "ICT": [
+    {
+      "name": "Daniel Nwandu",
+      "role": "Huawei ICT Academy Coordinator",
+      "email": "danielnwandu@solacademy.org.uk"
+    },
+    {
+      "name": "Sagar Ashraf",
+      "skills": [
+        "Reactjs",
+        "Node",
+        "Python",
+        "Deep Learning",
+        "Machine Learning",
+        "Javascript",
+        "MYSQL"
+      ],
+      "email": "sagarashraf@solacademy.org.uk"
+    },
+    {
+      "name": "Fabien Ketiku",
+      "role": "Full Stack web developer",
+      "email": "ict@solacademy.org.uk"
+    }
+  ],
+  "Careers, STEM, Projects and Partnerships": {
+    "name": "Dr Sunday Cookey",
+    "qualifications": [
+      "Master of Art in Higher Education",
+      "PGC in Academic Practice",
+      "PhD in Electrical & Electronic Engineering",
+      "MSc Communication Engineering",
+      "BEng (Hons) in Electrical & Electronic Engineering",
+      "Chartered Engineer (CEng)",
+      "PRINCE2 Certification",
+      "Senior Fellow of the Higher Education Academy, UK"
+    ],
+    "email": "sundaycookey@solacademy.org.uk"
+  },
+  "Music Academy": {
+    "name": "Mr Anthony Jackman",
+    "qualifications": ["PGCE", "QTS"],
+    "email": "anthonyjackman@solacademy.org.uk"
+  },
+  "Soccer Academy": {
+    "email": "school@solacademy.org.uk"
+  },
+  "Dance Academy": {
+    "name": "Ms Tara Warburton",
+    "qualifications": [
+      "MA Professional Practice, Dance (Inclusive practice)",
+      "IDTA Level 4 Diploma in Dance Teaching"
+    ],
+    "email": "school@solacademy.org.uk"
+  },
+  "Early Years": {
+    "Coordinator": {
+      "name": "Mrs Irene Tabeth",
+      "qualifications": [
+        "BA professional Development in Early Years",
+        "PGCE",
+        "QTS",
+        "FD Early years childhood studies",
+        "CE Higher Education in Early Years Leadership",
+        "Rhema Bible College Diploma in Christian Ministry"
+      ],
+      "email": "irenetabeth@solacademy.org.uk"
+    },
+    "Assistants": [
+      {
+        "name": "Neoma Igwe",
+        "email": "neomaigwe@solacademy.org.uk"
+      },
+      {
+        "name": "Faith Ichi",
+        "email": "faithichi@solacademy.org.uk"
+      },
+      {
+        "name": "Leonardo Gomez",
+        "email": ""
+      }
+    ]
+  },
+  "SENCo and SEND Governor": {
+    "SENCo": {
+      "name": "Mrs Irene Tabeth",
+      "qualifications": ["PGCE", "QTS", "NASENCo"],
+      "email": "sendoffice@solacademy.org.uk"
+    },
+    "SEND Support": {
+      "name": "Mrs Catherine Gale",
+      "qualifications": [
+        "PGCE",
+        "Cert in Education Teaching Learners with Additional Needs"
+      ],
+      "email": "catherinegale@solacademy.org.uk"
+    },
+    "SEND Governor": {
+      "name": "Rev. E Tabeth",
+      "email": "etabeth@solacademy.org.uk"
+    }
+  },
+  "Safeguarding": {
+    "Designated Safeguarding Lead": {
+      "name": "Mrs Irene Tabeth",
+      "email": "irenetabeth@solacademy.org.uk"
+    },
+    "Deputy Safeguarding Lead": {
+      "name": "Rev. E Tabeth",
+      "email": "etabeth@solacademy.org.uk"
+    },
+    "Designated Safeguarding Governor": {
+      "name": "Dr Adalbert Ngongang",
+      "email": "adalbertngongang@solacademy.org.uk"
+    }
+  },
+  "Administrators": {
+    "name": "Mrs Abimbola Oni",
+    "email": "ambibolaoni@solacademy.org.uk"
+  },
+  "Parent/Teacher Fellowship/Association": {
+    "name": "Mr Ekes Osajele",
+    "email": "pta@solacademy.org.uk"
+  },
+  "Governors": [
+    {
+      "name": "Rev. E Tabeth",
+      "role": "Personal Development, Behaviour and Attitude",
+      "email": "etabeth@solacademy.org.uk"
+    },
+    {
+      "name": "Dr Adalbert Ngongang",
+      "role": "Safeguarding Designated Governor",
+      "email": "adalbertngongang@solacademy.org.uk"
+    },
+    {
+      "name": "Dr Sunday Cookey",
+      "role": "Quality of Education and partnerships",
+      "email": "sundaycookey@solacademy.org.uk"
+    },
+    {
+      "name": "Mr Ayo Jatto",
+      "role": "Leadership and Management",
+      "email": "ayojatto@solacademy.org.uk"
+    }
+  ],
+  "Chair of Governors": {
+    "name": "Rev. E. Tabeth",
+    "qualifications": [
+      "MEng",
+      "BSc",
+      "PGCE",
+      "QTS",
+      "Rhema Bible College Diploma in Christian Ministry"
+    ],
+    "address": "SOL Christian Academy, 115 Fairfield Street, Manchester, M12 6EL",
+    "email": "etabeth@solacademy.org.uk",
+    "phone": "01616372944",
+    "contact_time": "during school term time"
+  }
+}
